@@ -1,0 +1,23 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=Mooli&display=swap');
+
+.elCarousel img{
+   
+   height: 100%;
+   object-fit: cover;
+
+}
+.elCarousel{
+    height: 100vh;
+}
+.el-container-carousel {
+    position: relative;
+    height: 100vh;
+}
+
+div{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Mooli', sans-serif;
+}
+
+

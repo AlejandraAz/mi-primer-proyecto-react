@@ -1,0 +1,5 @@
+.elnavbar {
+    background: #bdc3c7;  
+    background: -webkit-linear-gradient(to left, #abcbec, #bdc3c7); 
+    background: linear-gradient(to left, #404e5c, #bdc3c7); 
+}

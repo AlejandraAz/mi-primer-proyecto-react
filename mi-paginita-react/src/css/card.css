@@ -1,0 +1,27 @@
+.card{
+    transition: all 400ms ease;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+}
+.card:hover{
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+    transform: translateY(-4%);
+}
+.whatsY {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+}
+.whatsY:hover {
+    color: #0df053;
+    background: #fff;
+}
