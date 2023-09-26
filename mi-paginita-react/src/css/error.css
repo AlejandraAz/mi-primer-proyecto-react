@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.elPadre{
+    background: #4bd6d4;
+    height: 100vh;
+    width: 100%;
+}
+
+
+.contenido .error404 span{
+    font-size: 10em;
+    padding: 7px;
+    color: #1b1b1b;
+    text-shadow: 
+    1px 18px 6px rgba(16, 16, 14, 0.4),
+    1px 22px 10px rgba(16, 16, 14, 0.2),
+    1px 25px 35px rgba(16, 16, 14, 0.2),
+    1px 36px 60px rgba(16, 16, 14, 0.4);
+}  
+.contenido h2{
+    font-size: 2em;
+    color: #1b1b1b;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.contenido p{
+    text-align: center;
+}
+
+.contenido a i{
+    margin-left: 10px;
+}

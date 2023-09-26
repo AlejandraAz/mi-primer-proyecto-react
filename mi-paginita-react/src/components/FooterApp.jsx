@@ -29,10 +29,10 @@ const FooterApp = ({modoOscuro}) => {
                 </div>
                 <div className="col-12 col-md-5 col-lg-3 py-3">
                     <h4><u>nuestras redes</u></h4>
-                    <Link to="https://www.facebook.com/?locale=es_LA"><i className="iconosF bi bi-facebook"></i></Link>
-                    <Link to='https://www.instagram.com/' target='_blank'><i className="iconosF bi bi-instagram"></i></Link>
-                    <Link to='https://ar.linkedin.com/'><i className="iconosF bi bi-linkedin"></i></Link>
-                    <Link to='https://twitter.com/?lang=es'><i className="iconosF bi bi-twitter"></i></Link>
+                    <a href="https://www.facebook.com/?locale=es_LA" target="_blank"><i className="iconosF bi bi-facebook"></i></a>
+                    <a href='https://www.instagram.com/' target="_blank"><i className="iconosF bi bi-instagram"></i></a>
+                    <a href='https://ar.linkedin.com/' target="_blank"><i className="iconosF bi bi-linkedin"></i></a>
+                    <a href='https://twitter.com/?lang=es' target="_blank"><i className="iconosF bi bi-twitter"></i></a>
                 </div>
                 <hr className='text-danger' />
                 <p className='text-center  mt-3'><i class="bi bi-c-circle"></i> 2023 -GlobalTour - Todos los derechos reservados</p>
